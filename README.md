@@ -1,1 +1,1 @@
-# CLI 'Do you Know me?' App by Manthan
+# CLI 'Do you Know me?' App 
